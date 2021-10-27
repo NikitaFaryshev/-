@@ -6,7 +6,7 @@ namespace JFDH
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Алла Пугачёва лучшая вообще класс супер!");
         }
     }
 }
